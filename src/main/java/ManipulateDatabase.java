@@ -18,8 +18,13 @@ public class ManipulateDatabase {
                     // Close connection.
                     connection.close();
                 } catch (Exception e) {
-                    e.printStackTrace();
-
+                    if (e.toString().contains("Duplicate entry"))
+                    {
+                        System.out.println("this is allredy excists in database");
+                    }
+                    else {
+                        e.printStackTrace();
+                    }
 
         }
     }
