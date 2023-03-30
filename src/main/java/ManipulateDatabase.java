@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ManipulateDatabase {
     public ManipulateDatabase(String host, String port, String database, String cp, String username, String password, String sqlManipulation)
     {
-
+                //the path/url for the databse
                 String url = "jdbc:mysql://" + host + ":" + port + "/" + database + "?characterEncoding=" + cp;
                 try {
 
