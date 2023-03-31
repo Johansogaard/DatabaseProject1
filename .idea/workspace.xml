@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="531cd4dc-c08a-4977-86cf-b8b491c536e2" name="Changes" comment="jj works">
+    <list default="true" id="531cd4dc-c08a-4977-86cf-b8b491c536e2" name="Changes" comment="jj with comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ManipulateDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ManipulateDatabase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
       <updated>1678787827704</updated>
       <workItem from="1678787829768" duration="3437000" />
       <workItem from="1679384216498" duration="1806000" />
-      <workItem from="1679985177001" duration="21098000" />
+      <workItem from="1679985177001" duration="23611000" />
     </task>
     <task id="LOCAL-00001" summary="jj">
       <created>1679385305277</created>
@@ -131,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680086103539</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jj with comments">
+      <created>1680197080227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197080227</updated>
+    </task>
+    <task id="LOCAL-00006" summary="jj with comments">
+      <created>1680197107486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197107486</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,33 +164,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jj" />
     <MESSAGE value="jj works" />
-    <option name="LAST_COMMIT_MESSAGE" value="jj works" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/controller.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ManipulateDatabase.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ManipulateDatabase.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ManipulateDatabase.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="jj with comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="jj with comments" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/databaserigtigopgave$controller.ic" NAME="controller Coverage Results" MODIFIED="1680085270375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
